@@ -1,0 +1,2 @@
+epoch,loss,mean_absolute_error,mean_absolute_percentage_error,mean_squared_error,r2_score,val_loss,val_mean_absolute_error,val_mean_absolute_percentage_error,val_mean_squared_error,val_r2_score
+1,81287312179.2,93626232.6,81287312179.2,9.021302608249225e+17,-1.1172759731177101e+19,18447818860.8,76246363.925,18447818860.8,1.3219477694788404e+16,-5.503523013693696e+18
